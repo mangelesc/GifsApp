@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+html,
+html,
+html,
+html,
+body {
+  height: 100vw;
+}
+
+#sidebar {
+  height: 100vw;
+  min-height: 100vw;
+  min-width: 180px;
+}
